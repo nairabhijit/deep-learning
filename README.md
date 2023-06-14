@@ -90,3 +90,8 @@ Extract file
 ```sh
 !tar xzvf pretrained-model.tar.gz
 ```
+
+CIFAR 10 classes
+```python
+["airplane","automobile","bird","cat","deer","dog","frog","horse","ship","truck"]
+```
