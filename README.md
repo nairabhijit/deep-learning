@@ -86,3 +86,7 @@ Objects list
  89: '"hair drier"',
  90: '"toothbrush"'}
 ```
+Extract file
+```sh
+!tar xzvf pretrained-model.tar.gz
+```
